@@ -5,7 +5,7 @@
 
 ## 🌐 Live Prototype
 Access the deployed application here:
-**[school-supplies-pms.vercel.app](https://hopedb-pms.vercel.app)**
+**(https://hopedb-pms.vercel.app)**
 
 ---
 
