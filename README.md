@@ -51,12 +51,14 @@ The **Hope, Inc. Product Management System (HopePMS)** is a specialized web-base
 ---
 
 ## 👥 Development Team
-* **DIAZ, Kay Elaine**
+* **OBILLO, Jorwill**
 * **FAJARDO, Luis Kenneth**
-* **FETALVO, Romeo Felipe**
-* **PEREZ, Cassandra Jade Aliyah**
+* **OVIEDO, Cyrille Paula**
+* **MANONGDO, Kengi**
+* **Kim, Eljohn**
 
-**Course:** 2 BSIT-5 | Group 5  
+
+**Course:** 3 BSIT-5  
 **School:** New Era University - College of Informatics and Computing Studies  
 **Professor:** Prof. Jeremias C. Esperanza  
 **Status:** Information Management Project (2026)
