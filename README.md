@@ -58,7 +58,7 @@ The **Hope, Inc. Product Management System (HopePMS)** is a specialized web-base
 * **Kim, Eljohn**
 
 
-**Course:** 3 BSIT-5  
+**Course:** CICS_Petition  
 **School:** New Era University - College of Informatics and Computing Studies  
 **Professor:** Prof. Jeremias C. Esperanza  
 **Status:** Information Management Project (2026)
